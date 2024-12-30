@@ -1,5 +1,6 @@
 1. instruction of running the script:
-This .py can be run on the colab. If you use the GPU(A100), can be done in 3 mins for each languages, and 17mins for total.
+This main.py can be run on the colab.
+If you use the GPU(A100), can be done in 3 mins for each languages, and 17mins for total.
 
 Before you run the code:
 1. do not forget to "pip install datasets".
