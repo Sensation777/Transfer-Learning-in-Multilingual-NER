@@ -1,5 +1,5 @@
 1. instruction of running the script:
-This main.py can be run on the colab.
+This main.ipynb can be run on the colab.
 If you use the GPU(A100), can be done in 3 mins for each languages, and 17mins for total.
 
 Before you run the code:
